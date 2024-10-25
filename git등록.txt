@@ -1,0 +1,28 @@
+git init
+
+git status
+
+git add .
+
+git status
+
+git commit -m " "
+
+
+맨 아래두줄 복사 (붙여넣기키 : 시프트 인설트)
+
+맨 뒤 main을 master로 변경
+
+
+끝
+
+
+// 
+
+
+번외  :  삭제
+1) git rm --cached -r jdbc2(경로)/driver.xml(지울파일)
+2) git add . 
+3) git commit -m "메시지"
+4) git push 
+삭제할파일이없으면 그냥 2,3,4만 실행
